@@ -32,9 +32,9 @@ async function starts() {
 	    //client.version = [ 5, 9741, 8 ];
 	    client.browserDescription = ["EXTREAM","Ubuntu","18.04"]
 	    client.logger.level = 'warn'
-	    console.log(color(`]─`,`magenta`),`「`,  color(`EXTREAM`,`red`), `」`,  color(`─[`,`magenta`))
+	    console.log(color(`]─`,`magenta`),`「`,  color(`IPANG BOTZ`,`red`), `」`,  color(`─[`,`magenta`))
 	    client.on('qr', () => {
-	    console.log(color('[','white'), color('!','red'), color(']','white'), color(' Scan Bwang'))
+	    console.log(color('[','white'), color('!','red'), color(']','white'), color(' Scan jancoo'))
 	    })
 	    fs.existsSync('./session.json') && client.loadAuthInfo('./session.json')
 	    client.on('connecting', () => {
@@ -59,8 +59,8 @@ async function starts() {
 await client.modifyChat(`${settings.nomerlu}@s.whatsapp.net`, 'delete').catch(_ => _)
 		}
 
-        if(joinExtream){
-        teks = `https://chat.whatsapp.com/GsX10XuzZqQ99jccdcDasi`
+        if(joinGC){
+        teks = `https://chat.whatsapp.com/LHdkrKiXNu0CatC6GFlIMQ`
         client.query({ json:["action", "invite", `${teks.replace('https://chat.whatsapp.com/','')}`]})
          }
          
