@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "DITTAZ",
-     "nomerlu": "6285156137901",
-     "namabot": "Amelia Botz",
-     "nomerbot": "6285859108597",
+     "namalu" : "IPANG",
+     "nomerlu": "6282136031499",
+     "namabot": "IPANG Botz",
+     "nomerbot": "12029991511",
      "gender" : "Female",
      "copyright" : "Extream",
-     "namaDocument": "Amelia Botz",
+     "namaDocument": "IPANG Botz",
      "joinGcExtream": true,
 
      "publik": true,
@@ -34,8 +34,8 @@
      "SetFunction": {
      "Daftar_Font": "block, slick, tiny, grid, pallet, shade, chrome, simple, simpleBlock, 3d, simple3d, huge, console",        
      "font": "simple",                      
-     "self": "SELF",
-     "bot": "BOT",
+     "self": "IPANG",
+     "bot": "BOTZ",
      "ext": "REVOLUTION"
      },
      
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "085156137901",
-     "Gopay" : "085156137901",
-     "Dana" : "085156137901",
-     "Ovo" : "085156137901"
+     "Shopee" : "082136031499",
+     "Gopay" : "082136031499",
+     "Dana" : "082136031499",
+     "Ovo" : "082136031499"
      },
      
      "setPrefix": {
